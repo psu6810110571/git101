@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hello World 
+=======
+Hello Git 
+>>>>>>> 56f1305 (Initial commit)
